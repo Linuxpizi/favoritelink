@@ -8,3 +8,6 @@
 
 >sql mysql oracle   
 > https://www.techonthenet.com/oracle/delete.php
+
+> c language   
+> https://akaedu.github.io/book/index.html
