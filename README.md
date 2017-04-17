@@ -10,9 +10,9 @@
 > https://www.techonthenet.com/oracle/delete.php
 
 > c language   
-> https://akaedu.github.io/book/index.html
-> https://www.zhihu.com/question/28989862
-> https://github.com/golang/go/wiki/cgo
-> https://github.com/golang/go/wiki/WindowsDLLs
-> http://www.swig.org/tutorial.html
-> https://www.goinggo.net/2013/08/using-c-dynamic-libraries-in-go-programs.html
+> https://akaedu.github.io/book/index.html   
+> https://www.zhihu.com/question/28989862   
+> https://github.com/golang/go/wiki/cgo   
+> https://github.com/golang/go/wiki/WindowsDLLs   
+> http://www.swig.org/tutorial.html   
+> https://www.goinggo.net/2013/08/using-c-dynamic-libraries-in-go-programs.html   
