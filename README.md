@@ -17,4 +17,7 @@
 > http://www.swig.org/tutorial.html   
 > https://www.goinggo.net/2013/08/using-c-dynamic-libraries-in-go-programs.html   
 > cygwin   
-> https://cygwin.com/   
+> https://cygwin.com/   
+> cgo   
+
+> http://tonybai.com/2012/09/26/interoperability-between-go-and-c/
