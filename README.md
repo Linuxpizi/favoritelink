@@ -16,3 +16,5 @@
 > https://github.com/golang/go/wiki/WindowsDLLs   
 > http://www.swig.org/tutorial.html   
 > https://www.goinggo.net/2013/08/using-c-dynamic-libraries-in-go-programs.html   
+> cygwin   
+> https://cygwin.com/   
