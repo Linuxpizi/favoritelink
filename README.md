@@ -37,3 +37,11 @@
  
 > css最佳实践   
 http://learn.shayhowe.com/html-css/working-with-typography/
+
+https://github.com/TianylCandy   
+
+https://github.com/dariubs/GoBooks   
+
+https://www.sitepoint.com/premium/?q=&limit=24&offset=0&page=1&content_types[]=All&slugs[]=all&states[]=available&order=   
+
+https://es.xiaoleilu.com/100_Full_Text_Search/00_Intro.html   
