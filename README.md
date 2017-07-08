@@ -45,3 +45,18 @@ https://github.com/dariubs/GoBooks
 https://www.sitepoint.com/premium/?q=&limit=24&offset=0&page=1&content_types[]=All&slugs[]=all&states[]=available&order=   
 
 https://es.xiaoleilu.com/100_Full_Text_Search/00_Intro.html   
+
+
+> vue
+
+https://medium.com/@manojkumar_88220/role-based-authentication-using-vue-js-2-f54e18498019   
+https://medium.com/codingthesmartway-com-blog/getting-started-with-axios-166cb0035237   
+https://medium.com/js-dojo/use-any-javascript-library-with-vue-js-3f7e2a4974a8   
+http://vuejsdevelopers.com/2017/07/03/vue-js-code-splitting-webpack/   
+http://vuejsdevelopers.com/2017/06/18/vue-js-boost-your-app-with-webpack/
+> golang middle
+https://github.com/gin-gonic/gin   
+http://www.alexedwards.net/blog/making-and-using-middleware   
+https://github.com/urfave/negroni   
+https://www.nicolasmerouze.com/middlewares-golang-best-practices-examples/   
+https://github.com/justinas/alice
