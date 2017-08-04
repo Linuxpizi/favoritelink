@@ -67,3 +67,9 @@ https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/z
 
 > 动态css样式   
 https://my.oschina.net/editorial-story/blog/1359292?from=20170716
+
+> sql 
+http://go-database-sql.org/index.html
+
+> go-awesome  
+https://github.com/avelino/awesome-go
