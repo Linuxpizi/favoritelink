@@ -73,3 +73,6 @@ http://go-database-sql.org/index.html
 
 > go-awesome  
 https://github.com/avelino/awesome-go
+
+> oracle for node.js   
+https://community.oracle.com/docs/DOC-931127
