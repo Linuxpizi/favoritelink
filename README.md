@@ -76,3 +76,6 @@ https://github.com/avelino/awesome-go
 
 > oracle for node.js   
 https://community.oracle.com/docs/DOC-931127
+
+> oracle自增字段   
+https://github.com/nodejh/nodejh.github.io/issues/33
