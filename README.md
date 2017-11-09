@@ -78,4 +78,7 @@ https://github.com/avelino/awesome-go
 https://community.oracle.com/docs/DOC-931127
 
 > oracle自增字段   
-https://github.com/nodejh/nodejh.github.io/issues/33
+https://github.com/nodejh/nodejh.github.io/issues/33 
+
+> data structure
+http://www.geeksforgeeks.org/data-structures/
