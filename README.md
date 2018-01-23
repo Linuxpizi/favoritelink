@@ -83,4 +83,7 @@ https://github.com/nodejh/nodejh.github.io/issues/33
 > data structure
 http://www.geeksforgeeks.org/data-structures/
 
-> http://web.jobbole.com/93553/
+> http://web.jobbole.com/93553/   
+
+> http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/   
+
