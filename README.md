@@ -88,3 +88,8 @@ http://www.geeksforgeeks.org/data-structures/
 > http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/   
 
 > https://github.com/facebookresearch/Detectron
+
+
+> react   
+> https://www.slideshare.net/newstory0113/why-reduxobservable  
+
