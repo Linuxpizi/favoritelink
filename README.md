@@ -92,4 +92,5 @@ http://www.geeksforgeeks.org/data-structures/
 
 > react   
 > https://www.slideshare.net/newstory0113/why-reduxobservable  
+> https://www.youtube.com/watch?v=Oj1lYnJYMow
 
