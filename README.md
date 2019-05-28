@@ -94,3 +94,5 @@ http://www.geeksforgeeks.org/data-structures/
 > https://www.slideshare.net/newstory0113/why-reduxobservable  
 > https://www.youtube.com/watch?v=Oj1lYnJYMow
 
+> webpack 
+https://stackoverflow.com/questions/50797829/webpack-vendor-libs-not-splitted-into-separate-bundle
