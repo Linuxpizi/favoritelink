@@ -99,3 +99,6 @@ https://stackoverflow.com/questions/50797829/webpack-vendor-libs-not-splitted-in
 
 > xxoo   
 http://z.zskpzy.com/16130.html
+
+> tcp  
+https://vincent.bernat.ch/en/blog/2014-tcp-time-wait-state-linux
