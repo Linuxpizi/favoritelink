@@ -107,3 +107,6 @@ https://vincent.bernat.ch/en/blog/2014-tcp-time-wait-state-linux
 https://stormpath.com/blog/tutorial-setup-git-cli-environment-windows
 
 > https://vincent.bernat.ch/en/blog
+
+> timeout
+> https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/amp/
