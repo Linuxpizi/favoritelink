@@ -112,6 +112,6 @@ https://stormpath.com/blog/tutorial-setup-git-cli-environment-windows
 > https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/amp/
 
 > npm
-> https://medium.com/@bretcameron/how-to-publish-your-first-npm-package-b224296fc57b
-> https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
+> https://medium.com/@bretcameron/how-to-publish-your-first-npm-package-b224296fc57b  
+> https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/  
 > https://zoucz.com/blog/2016/02/17/npm-package/
